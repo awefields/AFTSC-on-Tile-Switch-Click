@@ -13,8 +13,8 @@
   "styles": [],
   "packs": [],
   "systems": [],
-  "url": "",
-  "manifest": "path/to/module.json",
-  "download": "",
+  "url": "https://github.com/awefields/AFTSC-on-Tile-Switch-Click",
+  "manifest": "https://raw.githubusercontent.com/awefields/AFTSC-on-Tile-Switch-Click/refs/heads/main/AFTSC%20-%20on-Tile%20Switch%20Click/module.json",
+  "download": "https://github.com/awefields/AFTSC-on-Tile-Switch-Click/archive/refs/main.zip",
   "license": "MIT"
 }
