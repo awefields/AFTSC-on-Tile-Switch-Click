@@ -1,0 +1,20 @@
+{
+  "name": "AFTSC-on-Tile-Switch-Click",
+  "title": "Scene Switcher on Tile Click",
+  "description": "Click a labeled tile to switch scenes.",
+  "version": "1.0.0",
+  "author": "Anthony Fields",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "scripts": [
+    "scripts/switcher.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "systems": [],
+  "url": "",
+  "manifest": "path/to/module.json",
+  "download": "",
+  "license": "MIT"
+}
