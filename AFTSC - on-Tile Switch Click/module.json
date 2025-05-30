@@ -1,4 +1,5 @@
 {
+  "id": "aftsc-tile-switch",
   "name": "AFTSC-on-Tile-Switch-Click",
   "title": "Scene Switcher on Tile Click",
   "description": "Click a labeled tile to switch scenes.",
